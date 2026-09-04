@@ -32,6 +32,7 @@ http://localhost:8080
 Both the Python script and Windows executable are available.
 
 **Version:** `1.0`
+
 **Status:** Stable
 
 — All Rights Reserved [RequestTimeout](https://github.com/RequestTimeout)
