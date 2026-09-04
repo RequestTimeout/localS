@@ -34,4 +34,6 @@ Both the Python script and Windows executable are available.
 **Version:** `1.0`
 **Status:** Stable
 
-— [RequestTimeout](https://github.com/RequestTimeout)
+— All Rights Reserved [RequestTimeout](https://github.com/RequestTimeout)
+
+[LICENSE](LICENSE.md)
