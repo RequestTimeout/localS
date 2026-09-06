@@ -5,7 +5,7 @@
 > Some Features Might Not Work On MacOS or Linux.
 
 ### Installation(If Python is installed)
-go to /RequestTimeout/LocalS/src/LocalS.py and download the file.
+Go to /RequestTimeout/LocalS/src/LocalS.py and download the file.
 
 ---
 Then drop the .py file somewhere accessible, like:
@@ -19,8 +19,7 @@ python "C:\LocalS\LocalS.py" -p <port> -d <directory>
 ```
 
 ### Installation(If python is not installed)
-Click here to [download LocalS.zip](https://github.com/RequestTimeout/LocalS/raw/refs/heads/main/LocalS.zip), OR go to /RequestTimeout/LocalS/LocalS.zip
-and download the ZIP.
+Go to /RequestTimeout/LocalS/LocalS.zip and download the ZIP.
 
 ---
 Then extract the ZIP into somewhere accessible, like:
