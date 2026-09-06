@@ -5,8 +5,7 @@
 > Some Features Might Not Work On MacOS or Linux.
 
 ### Installation(If Python is installed)
-Click here to [download LocalS.py](https://raw.githubusercontent.com/RequestTimeout/LocalS/main/src/LocalS.py), OR go to /RequestTimeout/LocalS/src/LocalS.py
-and download the file.
+go to /RequestTimeout/LocalS/src/LocalS.py and download the file.
 
 ---
 Then drop the .py file somewhere accessible, like:
